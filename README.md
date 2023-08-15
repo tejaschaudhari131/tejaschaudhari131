@@ -51,11 +51,7 @@ Still new to programming but motivated to improve every day. Ask me what concept
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+ 
 
 
 </td></tr></table>  
@@ -114,4 +110,3 @@ Still new to programming but motivated to improve every day. Ask me what concept
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
