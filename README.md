@@ -87,10 +87,8 @@ Still new to programming but motivated to improve every day. Ask me what concept
 
 ## Github Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=tejaschaudhari131&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaschaudhari131&show_icons=true&locale=en&layout=compact" alt="tejaschaudhari131" /></p>
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaschaudhari131&hide_border=true&layout=compact" align="right" style="width: 50%" />
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejaschaudhari131&show_icons=true&locale=en" alt="tejaschaudhari131" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaschaudhari131&" alt="tejaschaudhari131" /></p>
