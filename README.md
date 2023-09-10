@@ -92,4 +92,4 @@ Still new to programming but motivated to improve every day. Ask me what concept
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejaschaudhari131&show_icons=true&locale=en" alt="tejaschaudhari131" /></p>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaschaudhari131&" alt="tejaschaudhari131" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaschaudhari131&" alt="tejaschaudhari131" /></p>
