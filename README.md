@@ -86,14 +86,11 @@ Still new to programming but motivated to improve every day. Ask me what concept
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=tejaschaudhari131&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaschaudhari131&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaschaudhari131&" alt="tejaschaudhari131" /></p>
