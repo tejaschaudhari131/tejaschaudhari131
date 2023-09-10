@@ -97,4 +97,3 @@ Still new to programming but motivated to improve every day. Ask me what concept
 </td></tr></table>  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaschaudhari131&" alt="tejaschaudhari131" /></p>
-----
