@@ -85,11 +85,15 @@ Still new to programming but motivated to improve every day. Ask me what concept
 <br/>  
 
 
-## Github Stats  
+## 📈 My GitHub Stats
 
-<p><img align="left" width=42% src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaschaudhari131&show_icons=true&locale=en&layout=compact" alt="tejaschaudhari131" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tejaschaudhari131&show_icons=true&theme=radical" alt="Tejaram's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaschaudhari131&theme=radical" alt="Tejaram's GitHub Streak" width="48%"/>
+</p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tejaschaudhari131&show_icons=true&locale=en" alt="tejaschaudhari131" /></p>
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaschaudhari131&show_icons=true&locale=en&layout=compact&theme=radical" alt="Tejaram's Top Languages" width="48%"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaschaudhari131&" alt="tejaschaudhari131" /></p>
+---
