@@ -39,7 +39,7 @@ Still new to programming but motivated to improve every day. Ask me what concept
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently a Cloud co-lead at GDSC TCOER
+- 🔭 I’m currently freelancing and contributing in open source projects
   
 
 - 🌱 I’m currently learning Artificial Intelligence and machine learning  
