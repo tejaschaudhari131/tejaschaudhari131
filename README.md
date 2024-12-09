@@ -1,7 +1,7 @@
 # Tejaram Chaudhari
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;AI+%26+ML+Enthusiast;Green+Terminal+Style;Open+Source+Lover&center=true&width=650&height=45&color=33FF00">
 </p>
 
 <p align="center">
