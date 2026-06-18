@@ -1,4 +1,4 @@
-# Tejas Chaudhari
+# tejas Chaudhari
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;AI+%26+ML+Enthusiast;Open+Source+Lover&center=true&width=650&height=45&color=33FF00">
@@ -8,22 +8,22 @@
   <a href="https://github.com/tejaschaudhari131">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://twitter.com/TejasCh32900009">
+  <a href="https://twitter.com/tejasCh32900009">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://dev.to/tejaschaudhari131">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
   </a>
-  <a href="https://www.linkedin.com/in/tejaramchaudhari/">
+  <a href="https://www.linkedin.com/in/tejaschaudhari/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/simplytejasc/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://stackoverflow.com/users/22173772/tejaram-chaudhari">
+  <a href="https://stackoverflow.com/users/22173772/tejas-chaudhari">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
   </a>
-  <a href="https://www.kaggle.com/tejaramchaudhari">
+  <a href="https://www.kaggle.com/tejaschaudhari">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
   <a href="https://medium.com/@tejaschaudhari131">
@@ -66,18 +66,18 @@ I'm a passionate software developer, new to programming but motivated to improve
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejaschaudhari131&show_icons=true&theme=radical" alt="Tejaram's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaschaudhari131&theme=radical" alt="Tejaram's GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tejaschaudhari131&show_icons=true&theme=radical" alt="tejas GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaschaudhari131&theme=radical" alt="tejas GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaschaudhari131&show_icons=true&locale=en&layout=compact&theme=radical" alt="Tejaram's Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaschaudhari131&show_icons=true&locale=en&layout=compact&theme=radical" alt="tejas Top Languages" width="48%"/>
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tejaschaudhari131&theme=darkhub&no-frame=true&row=1&column=7" alt="Tejaram's Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=tejaschaudhari131&theme=darkhub&no-frame=true&row=1&column=7" alt="tejas Trophies">
 </p>
 
 ---
