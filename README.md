@@ -1,4 +1,4 @@
-# Tejaram Chaudhari
+# Tejas Chaudhari
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;AI+%26+ML+Enthusiast;Open+Source+Lover&center=true&width=650&height=45&color=33FF00">
