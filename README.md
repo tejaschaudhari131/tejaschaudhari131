@@ -1,90 +1,36 @@
 # Tejas Chaudhari
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;AI+%26+ML+Enthusiast;Open+Source+Lover&center=true&width=650&height=45&color=33FF00">
-</p>
+**MS, Information Security Policy and Management** · Heinz College, Carnegie Mellon University  
+Cyber-physical systems · network / embedded security · Summer 2027 internship
 
-<p align="center">
-  <a href="https://github.com/tejaschaudhari131">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://twitter.com/tejasCh32900009">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://dev.to/tejaschaudhari131">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
-  </a>
-  <a href="https://www.linkedin.com/in/tejaschaudhari/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/simplytejasc/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://stackoverflow.com/users/22173772/tejas-chaudhari">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
-  </a>
-  <a href="https://www.kaggle.com/tejaschaudhari">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
-  </a>
-  <a href="https://medium.com/@tejaschaudhari131">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
-</p>
+[Portfolio](https://www.andrew.cmu.edu/user/tchaudha/) · [LinkedIn](https://www.linkedin.com/in/tejaschaudhari/) · [Email](mailto:tejaschaudhari@cmu.edu)
 
-## 👋 Welcome to my GitHub!
+Working at the intersection of **security engineering and policy**: how firmware, networks, and ML-based detectors fail, and how to measure that failure instead of waving at it.
 
-I'm a passionate software developer, new to programming but motivated to improve every day. My journey in tech is just beginning, and I'm excited to share it with you!
+## Selected work
 
-### 🚀 Quick Facts
+| Project | What it is |
+|---|---|
+| [adversarial-gan-ids](https://github.com/tejaschaudhari131/adversarial-gan-ids) | Reproducible evaluation of ML/DL intrusion-detection systems under constrained feature-space evasion (FGSM, PGD, cGAN). Threat model, metrics, tests, CI. |
+| [RV-DigitalTwin-Dashboard](https://github.com/tejaschaudhari131/RV-DigitalTwin-Dashboard) | Digital-twin monitoring for vehicle appliances — real-time telemetry, simulation, predictive maintenance. CPS-adjacent systems work. |
+| [PhantomFirewall](https://github.com/tejaschaudhari131/PhantomFirewall) | Experimental adaptive-filtering prototype (ML + rule engine). Treat as a design/learning repo, not a production firewall. |
+| [quantum-defender](https://github.com/tejaschaudhari131/quantum-defender) | Early-stage notes on layered detection and post-quantum framing. Not a finished product. |
 
-- 🔭 Currently freelancing and contributing to open-source projects
-- 🌱 Learning Artificial Intelligence and Machine Learning
-- 💡 Always eager to tackle new challenges in the tech world
-- 🌙 Fun fact: I keep night mode switched on at all times
+Prior industry work includes a **BARC internship** on PSoC firmware (nanosecond-scale pulse timing, Modbus RTU).
 
-## 💻 Tech Stack
+## Now
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
-</p>
+- Coursework: Network Defenses, ISPM Professional Seminar
+- Target: Summer 2027 internship in product / embedded / CPS security, detection engineering, or federal cyber
+- Backup track: structured research internships (EPFL ERIP / ETH SSRF) if the US search misses
 
-## 📊 GitHub Stats
+## Stack I actually use
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejaschaudhari131&show_icons=true&theme=radical" alt="tejas GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaschaudhari131&theme=radical" alt="tejas GitHub Streak" width="48%"/>
-</p>
+Python · C / embedded · Linux · Git · network measurement · ML for security experiments
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaschaudhari131&show_icons=true&locale=en&layout=compact&theme=radical" alt="tejas Top Languages" width="48%"/>
-</p>
+TypeScript and web tooling show up in side projects. I do not lead with a badge wall.
 
-## 🏆 GitHub Trophies
+## Contact
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tejaschaudhari131&theme=darkhub&no-frame=true&row=1&column=7" alt="tejas Trophies">
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tejaschaudhari131&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
-</p>
-
-<p align="center">💼 Any freelance work? Feel free to reach out!</p>
-<p align="center">📫 How to reach me: <a href="mailto:tejaschaudhari131@gmail.com">tejaschaudhari131@gmail.com</a></p>
+Heinz / recruiting: [tejaschaudhari@cmu.edu](mailto:tejaschaudhari@cmu.edu)  
+Site: [andrew.cmu.edu/user/tchaudha](https://www.andrew.cmu.edu/user/tchaudha/)
