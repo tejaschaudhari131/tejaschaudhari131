@@ -22,7 +22,7 @@ Prior industry work includes a **BARC internship** on PSoC firmware (nanosecond-
 
 - Coursework: Network Defenses, ISPM Professional Seminar
 - Target: Summer 2027 internship in product / embedded / CPS security, detection engineering, or federal cyber
-- Backup track: structured research internships (EPFL ERIP / ETH SSRF) if the US search misses
+
 
 ## Stack I actually use
 
