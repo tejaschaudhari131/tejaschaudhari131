@@ -3,7 +3,7 @@
 **MS, Information Security Policy and Management** · Heinz College, Carnegie Mellon University  
 Cyber-physical systems · network / embedded security · Summer 2027 internship
 
-[Portfolio](https://www.andrew.cmu.edu/user/tchaudha/) · [LinkedIn](https://www.linkedin.com/in/tejaschaudhari/) · [Email](mailto:tejaschaudhari@cmu.edu)
+[Portfolio](https://www.andrew.cmu.edu/user/tchaudha/) · [LinkedIn](https://www.linkedin.com/in/tejaramchaudhari/) · [Email](mailto:tejaschaudhari@cmu.edu)
 
 Working at the intersection of **security engineering and policy**: how firmware, networks, and ML-based detectors fail, and how to measure that failure instead of waving at it.
 
